@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello, I am a cybersecurity student.
 
 <!--
 **MR-Gnawi/MR-Gnawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
